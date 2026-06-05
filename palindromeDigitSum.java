@@ -1,6 +1,6 @@
 // User function Template for Java
 
-class Solution {
+public class palindromeDigitSum {
     boolean isDigitSumPalindrome(int n) {
         // code here
         int sum=0,digit=0;
@@ -22,4 +22,6 @@ class Solution {
             return false;
         }
     }
-}
+} 
+    
+
